@@ -1,0 +1,5 @@
+gitTest1/
+gitTest1.Tests/
+gitTest1.sln
+gitTest1.v11.suo
+text1.txt
